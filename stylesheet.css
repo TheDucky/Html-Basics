@@ -10,8 +10,8 @@ table, th, td {
 
 .topnav {
   overflow: hidden;
-  background-color: rgb(30,30,30);
-  border: 2px solid #b99d4e;
+  background-color: #2E3440;
+  border: 2px solid #81A1C1;
   position: fixed; 
   top: 0; 
   width: 100%; 
@@ -20,15 +20,15 @@ table, th, td {
 .topnav a {
   float: left;
   display: block;
-  color: #b99d4e;
+  color: #81A1C1;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 .topnav a:hover {
-  background: #b99d4e;
-  color: black;
+  background: #81A1C1;
+  color: #2E3440;
 }
 
 .main {
